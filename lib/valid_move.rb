@@ -1,6 +1,6 @@
 # code your #valid_move? method here
-def valid_move?
- 2 + 2 == 4
+def valid_move?(a)
+ a + 2 == 4
 end
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
